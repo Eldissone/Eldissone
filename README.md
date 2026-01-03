@@ -5,7 +5,7 @@
 ---
 
 ## 👀 About Me  
-- 🚀 Passionate about **systems development, web technologies, and data-driven solutions**  
+- 🚀 Passionate about **systems development, web technologies, and data-driven solutions and AI**  
 - 🌱 Currently learning **Systems Analysis and Development (ADS)**, **Data Analysis with Power BI**, and **Data Structures**  
 - 🤝 Open to collaborate on **web development, data analysis, and innovative tech projects**  
 
